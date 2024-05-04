@@ -34,7 +34,7 @@ mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 
 # copy neovim-zen config
-git clone https://github.com/maxhu08/neovim-zen ~/.config/nvim
+git clone https://github.com/zerodev-exe/neovim ~/.config/nvim
 
 # remove .git folder so you can add your own repo later
 rm -rf ~/.config/nvim/.git

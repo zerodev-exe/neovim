@@ -1,6 +1,6 @@
-require("mh.core.options")
-require("mh.core.keymaps")
-require("mh.lazy")
+require("zero.core.options")
+require("zero.core.keymaps")
+require("zero.lazy")
 
 vim.o.laststatus = 0
 

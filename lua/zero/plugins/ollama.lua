@@ -41,7 +41,7 @@ return {
 			Sample_Prompt = {
 				prompt = "This is a sample prompt that receives $input and $sel(ection), among others.",
 				input_label = "> ",
-				model = "llama3",
+				model = "dolphin-llama3",
 				action = "display",
 			},
 		},

@@ -1,2 +1,2 @@
-require("mh.core")
-require("mh.lazy")
+require("zero.core")
+require("zero.lazy")
